@@ -50,7 +50,7 @@ The **To-Do List App** is a **React & Redux-powered** task management applicatio
 ## 📂 Project Structure  
 
 ```
-📦 ToDO_App
+📦 ToDo_App
 ┣ 📂 public              # Static assets (favicon, index.html)
 ┣ 📂 src
 ┃  ┣ 📂 components       # Reusable UI components (TaskForm, TaskList, TaskItem, SearchBar)
@@ -71,12 +71,12 @@ Follow these steps to set up the project locally:
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/Saurabh2244/ToDO_App.git
+git clone https://github.com/Saurabh2244/ToDo_App.git
 ```
 
 ### **2️⃣ Navigate to the Project Directory**  
 ```bash
-cd ToDO_App
+cd ToDo_App
 ```
 
 ### **3️⃣ Install Dependencies**  
@@ -170,5 +170,3 @@ If you found this project useful, consider supporting it by:
 ## 💫 **Built with Passion & Code by Saurabh Chaudhari** 💻❤️  
 
 ---
-
-🎉 **Now, copy and paste this `README.md` into your GitHub repository!** 🚀 Let me know if you need any modifications. 🔥🔥
